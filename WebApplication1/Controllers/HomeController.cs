@@ -20,7 +20,7 @@ namespace WebApplication1.Controllers
 
         public int aver(int a)
         {
-            return 1;
+            return 2;
         }
 
         public IActionResult Index()

@@ -18,6 +18,11 @@ namespace WebApplication1.Controllers
             _logger = logger;
         }
 
+        public int aver(int a)
+        {
+            return 1;
+        }
+
         public IActionResult Index()
         {
             return View();
